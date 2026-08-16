@@ -16,3 +16,4 @@ jobs:
 
       - name: Run Semgrep Scan
         run: semgrep scan --config auto
+        
